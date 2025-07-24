@@ -22,7 +22,8 @@
 				"ryuta46.multi-command",
 				"george-alisson.html-preview-vscode",
 				"mathematic.vscode-pdf",
-				"svelte.svelte-vscode"
+				"svelte.svelte-vscode",
+				"selemondev.vscode-shadcn-svelte"
 			]
 		}
 	},
