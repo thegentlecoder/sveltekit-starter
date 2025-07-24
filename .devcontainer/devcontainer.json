@@ -10,7 +10,7 @@
     "remoteEnv": {
         "OPS_BRANCH": "main"
     },
-	"postCreateCommand": "ops -update",
+	"postCreateCommand": "ops -update ; npm install -D tailwindcss postcss @tailwindcss/postcss ; npx shadcn-svelte init",
 	"customizations": {
 		"vscode": {
 			"extensions": [
